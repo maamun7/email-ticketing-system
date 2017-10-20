@@ -1,0 +1,1 @@
+<ul class="nav navbar-top-links navbar-left">	<li class="dropdown <?php if($active=="home"){echo"active";}?>">		<!--<a class="dropdown-toggle" data-toggle="dropdown" href="#"><i class="fa fa-dashboard fa-fw"></i>Dashboard</a>-->		</li>	<!-- /.dropdown --></ul>

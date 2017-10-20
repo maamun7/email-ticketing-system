@@ -1,0 +1,1 @@
+<?php if(!empty($sub_menu)){ ?><div class="row">	 &nbsp;</div><ul class="nav nav-tabs spacer" style="margin-bottom:15px;">	{sub_menu}		<li class="{class}"><a href="<?=base_url()?>{url}" title="{title}">{label}</a></li>	{/sub_menu}</ul><?php } ?>
